@@ -4,5 +4,10 @@ a demo project for finding distance of meteor landings
 ## Running
 This project requires Python 3 and the requests package
 
-`python3 find_meteors.py`
+first, install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
 
